@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @marveloussam
-- 👀 I’m interested in flutter developent
+- 👀 I’m interested in flutter development
 - 🌱 I’m currently learning flutter development
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me: marvelous.samuel@gmail.com
+- 👯 I’m looking to collaborate on Flutter development
 
 
 --->
